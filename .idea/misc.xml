@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/proyectos/WeatherAPPkt/app/src/main/res/drawable/gradient_bg.xml" value="0.1" />
+        <entry key="..\:/proyectos/WeatherAPPkt/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/proyectos/WeatherAPPkt/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.225" />
         <entry key="..\:/proyectos/WeatherAPPkt/app/src/main/res/layout/activity_main.xml" value="0.18059777102330293" />
+        <entry key="..\:/proyectos/WeatherAPPkt/app/src/main/res/layout/activity_splash_screen.xml" value="0.18059777102330293" />
       </map>
     </option>
   </component>
